@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['Magoosh_Downloader.py'],
-             pathex=['D:\\Python\\python projects\\magoosh_download_total'],
+             pathex=['D:\\Python\\python projects\\project_Magoosh\\testing_magoosh'],
              binaries=[],
              datas=[],
              hiddenimports=[],
