@@ -1,3 +1,9 @@
+# magoosh_downloader
+it is a .exe file made in python and this can download any course in magoosh website
+
+
+links for Magoosh courses
+
 
 ************************************************************
 MAGOOSH-GRE
